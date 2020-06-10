@@ -22,3 +22,7 @@ Open terminal or cmd promt and fire below command.<br/>
 `php spark make:model Modelname`
 
 *php spark make:model ProductModel*
+When fire this command the table name is my default taken as product_model.
+
+If you want pass table name then fire below command:
+*php spark make:model ProductModel table=products*
