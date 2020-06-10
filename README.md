@@ -12,4 +12,4 @@ Step-5 : Now you can used command and generate Controllers and Models in codeign
 Open terminal or cmd promt and fire below command.<br/>
 `php spark make:controller ControllerName`
 
-/*php spark make:controller ProductController*/
+*php spark make:controller ProductController*
