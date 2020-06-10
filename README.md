@@ -13,3 +13,12 @@ Open terminal or cmd promt and fire below command.<br/>
 `php spark make:controller ControllerName`
 
 *php spark make:controller ProductController*
+
+for more help fire
+`php spark help make:controller`
+
+# How to create model?
+Open terminal or cmd promt and fire below command.<br/>
+`php spark make:model Modelname`
+
+*php spark make:model ProductModel*
