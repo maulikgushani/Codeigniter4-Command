@@ -4,8 +4,8 @@ Create controller, model, view using spark command in codeigniter 4.
 # How to use?
 Step-1: Download or clone this repo.<br/>
 Step-2 : Open Download codeigniter4 project.<br/>
-Step-3 : Copy library app/Commands folder and paste into your codeigniter app directory.<br/>
-Step-4 : Copy library writable/mgdemofiles folder and paste into your codeigniter writable directory.<br/>
+Step-3 : Copy library <b>app/Commands</b> folder and paste into your codeigniter project <b>app</b> directory.<br/>
+Step-4 : Copy library <b>writable/mgdemofiles</b> folder and paste into your codeigniter project <b>writable</b> directory.<br/>
 Step-5 : Now you can used command and generate Controllers and Models in codeigniter.<br/>
 
 # How to create controller?
