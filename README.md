@@ -14,7 +14,7 @@ Open terminal or cmd promt and fire below command.<br/>
 
 *php spark make:controller ProductController*
 
-for more help fire
+for more help fire<br/>
 `php spark help make:controller`
 
 # How to create model?
@@ -29,3 +29,6 @@ If you want use custom table name then fire below command:<br/>
 
 Bydefault primary key is <b>id</b> if you want use custom then use primary keyword like below:<br/>
 `php spark make:model ProductModel primary=tid`
+
+for more help fire<br/>
+`php spark help make:model`
