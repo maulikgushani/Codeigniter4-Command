@@ -9,7 +9,7 @@ Step-4 : Copy library <b>writable/mgdemofiles</b> folder and paste into your cod
 Step-5 : Now you can used command and generate Controllers and Models in codeigniter4.<br/>
 
 # How to create controller?
-Open terminal or cmd promt and fire below command.<br/>
+Open terminal or cmd promt and fire below command:<br/>
 `php spark make:controller ControllerName`
 
 *php spark make:controller ProductController*
@@ -18,7 +18,7 @@ For more help fire<br/>
 `php spark help make:controller`
 
 # How to create model?
-Open terminal or cmd promt and fire below command.<br/>
+Open terminal or cmd promt and fire below command:<br/>
 `php spark make:model Modelname`
 
 *php spark make:model ProductModel*<br>
