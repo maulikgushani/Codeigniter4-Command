@@ -36,7 +36,7 @@ class MakeController extends BaseCommand
 					throw new \Exception($params[0] . ' controller already exists.');
 				}
 			} else {
-				throw new \Exception("Mode name is not entered.");
+				throw new \Exception("Controller name is not entered.");
 			}
 		} catch(\Exception $e) {
 			CLI::write($e->getMessage());
