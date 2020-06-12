@@ -37,5 +37,5 @@ For more help fire<br/>
 Open terminal or cmd promt and fire below command.<br/>
 `php spark route:list`
 
-For specific types of methods you can pass methods params as below:<br/>
+For specific types of methods you can pass methods name param as below:<br/>
 `php spark route:list methods=get,post,put`
