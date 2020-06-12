@@ -22,12 +22,12 @@ Open terminal or cmd promt and fire below command.<br/>
 `php spark make:model Modelname`
 
 *php spark make:model ProductModel*<br>
-When fire this command the table name is my default taken as product_model.
+When fire this command the table name is by default taken as product_model.
 
 If you want use custom table name then fire below command:<br/>
 `php spark make:model ProductModel table=products`
 
-Bydefault primary key is <b>id</b> if you want use custom then use primary keyword like below:<br/>
+By default primary key is <b>id</b> if you want use custom then use primary keyword like below:<br/>
 `php spark make:model ProductModel primary=tid`
 
 for more help fire<br/>
