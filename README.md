@@ -14,7 +14,7 @@ Open terminal or cmd promt and fire below command.<br/>
 
 *php spark make:controller ProductController*
 
-for more help fire<br/>
+For more help fire<br/>
 `php spark help make:controller`
 
 # How to create model?
@@ -30,12 +30,12 @@ If you want use custom table name then fire below command:<br/>
 By default primary key is <b>id</b> if you want use custom then use primary keyword like below:<br/>
 `php spark make:model ProductModel primary=tid`
 
-for more help fire<br/>
+For more help fire<br/>
 `php spark help make:model`
 
 # How to get a list of registered route?
 Open terminal or cmd promt and fire below command.<br/>
 `php spark route:list`
 
-for specific types of methods you can pass methods params as below<br/>
+For specific types of methods you can pass methods params as below:<br/>
 `php spark route:list methods=get,post,put`
