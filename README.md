@@ -32,3 +32,7 @@ By default primary key is <b>id</b> if you want use custom then use primary keyw
 
 for more help fire<br/>
 `php spark help make:model`
+
+# How to get a list of registered route?
+Open terminal or cmd promt and fire below command.<br/>
+`php spark route:list`
