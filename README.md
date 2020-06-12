@@ -36,3 +36,6 @@ for more help fire<br/>
 # How to get a list of registered route?
 Open terminal or cmd promt and fire below command.<br/>
 `php spark route:list`
+
+for specific types of methods you can pass methods params as below<br/>
+`php spark route:list methods=get,post,put`
